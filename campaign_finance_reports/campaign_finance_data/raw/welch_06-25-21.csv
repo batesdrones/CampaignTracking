@@ -1,0 +1,92 @@
+"(5)Date","(7)Full Name(Last, Suffix, First, Middle)Street Address &City, State, Zip Code","(8)ContributorTypeOccupation","(9)ContributionType","(10)In-kindDescription","(11)Amendment","(12)Amount",
+"(6)SequenceNumber",,,,,,,
+"060321//","Margo Catsimatidis817 5th Ave FL 14New York, NY 10065",Individ,"Retailal",Check,,,"$1,000.00"
+1,,,,,,,
+"060321//","Ricky Bell3406 East Hanna AveTampa, FL 33610",Individ,al,Check,,,$75.00
+2,,,,,,,
+"061021//","Edward Miley1250 Monticello Blvd NSt. Petersburg, FL 33703",Individ,"Dentistal",Check,,,$500.00
+3,,,,,,,
+"061021//","Lari Johnson200 Second Ave S Ste159",Individ,"Retiredal",Check,,,$250.00
+4,,,,,,,
+"061021//","RL Heinkel650 Collany Rd Unit 402Tierra Verde, FL 33715",Individ,"Accountantal",Check,,,$500.00
+5,,,,,,,
+"061021//","John Tomlin180 Beach Drive NE Unit1901",Individ,"Real Estateal",Check,,,$500.00
+6,,,,,,,
+"061021//","Jonathan Ginsberg4681 1st NE #211St Petersburg, FL 33703",Individ,"PublicAffairsal",Check,,,$250.00
+7,,,,,,,
+"061021//","Alexandra of ClearwaterBeach DBA Pier 60Concessions615 Pinellas St Unit 1Clearwater, FL  33756",Busine,"RetailConcessionss",Check,,,$500.00
+8,,,,,,,
+"061421//","Kevin Schwartz451 27th Ave N StPetersburg, FL  33704",Individ,"PropertyManagemental",Check,,,$250.00
+9,,,,,,,
+"060121//","Maude McDonald2181 55th Avenue South1505",Individ,"Retiredal",Check,,,$30.00
+10,,,,,,,
+"060121//","Bob Gualtieri165 Annwood RoadPalm Harbor, FL 34685",Individ,"Sheriffal",Check,,,$250.00
+11,,,,,,,
+"060121//","Elithia Stanfield3769 105th Ave NClearwater, FL 33762",Individ,"Retiredal",Check,,,$100.00
+12,,,,,,,
+"060221//","Bob Stewart4834 Windmill PalmTerrace NE",Individ,"Reitredal",Check,,,$100.00
+13,,,,,,,
+"060321//","Brett Gerdes6753 35th Ave NSt Petersburg, FL 33710",Individ,"Paralegalal",Check,,,$50.00
+14,,,,,,,
+"060321//","Scott Bitterli3625 Dartmouth AvenueNorth",Individ,"ManagingDirectoral",Check,,,$250.00
+15,,,,,,,
+"060421//","Lucas Fleming2701 Fifth Avenue NorthSt Petersburg, FL 33713",Individ,"Attorneyal",Check,,,"$1,000.00"
+16,,,,,,,
+"060421//","Joe Moye715 GLENAIRY DRIVENE",Individ,"CEOal",Check,,,$250.00
+17,,,,,,,
+"060521//","K30a3re2n8 Lieberman253 Sunlit Cove Dr NESt Petersburg, FL 33702",Individ,"Retiredal",Check,,,$100.00
+18,,,,,,,
+"060621//","Brian HartleyPO Box 76015St. Petersburg, FL 33703",Individ,"Constructional",Check,,,$100.00
+19,,,,,,,
+"060721//","LSN Partners, LLC801 Arthur GodfreyRoad, Suite 401",Busine,"Consultings",Check,,,"$1,000.00"
+20,,,,,,,
+"060721//","Llorente & Heckler, P.A.801 Arthur GodfreyRoad, Suite 401",Busine,"Law Firms",Check,,,"$1,000.00"
+21,,,,,,,
+"060721//","Norman Bungard5400 Park Street NorthPH #7",Individ,"Retiredal",Check,,,$100.00
+22,,,,,,,
+"060721//","Gleen Jones1910 Lakeland HillsBlvd.",Individ,"CEOal",Check,,,$100.00
+23,,,,,,,
+"060821//","Thomas Hallock125 19 Ave. SouthSt. Petersburg, FL 33705",Individ,"Teacheral",Check,,,$50.00
+24,,,,,,,
+"060921//","Gerry Mckenzie522 Elm AvenueUpper Darby, PA 19082",Individ,"Retiredal",Check,,,$50.00
+25,,,,,,,
+"060921//","James Freeman127 Wildwood Lane SESt. Petersburg, FL 33705",Individ,"Attorneyal",Check,,,$250.00
+26,,,,,,,
+"061021//","Michael Bice327 Rafael BoulevardNortheast",Individ,"Retiredal",Check,,,$500.00
+27,,,,,,,
+"061021//","Michael Bice327 Rafael BoulevardNortheast",Individ,"Retiredal",Check,,,$500.00
+28,,,,,,,
+"061021//","Bill Bucolo2223 Coit RoadClearwater, FL 33764",Individ,"Retiredal",Check,,,$100.00
+29,,,,,,,
+"061021//","Basha Jordan Jr2225 Corinne CourtSouth A",Individ,"Retiredal",Check,,,$500.00
+30,,,,,,,
+"061121//","Julie Kessel851 35th Avenue NorthSt. Petersburg, FL 33704",Individ,"Physicianal",Check,,,$300.00
+31,,,,,,,
+"061321//","John Draheim224 Windward IslandClearwater, FL 33767",Individ,"Retiredal",Check,,,"$1,000.00"
+32,,,,,,,
+"061321//","Yolanda Brown1931 Cordova RdFort Lauderdale, FL",Individ,"Consultantal",Check,,,$50.00
+33,,,,,,,
+"061021//","Michael Morroni10770 US HWY 19 N702",Individ,"CustomerServiceal",Check,,,$50.00
+34,,,,,,,
+"061421//","Greer St. Rose4657 21st Avenue SouthSt. Petersburg, FL 33711",Individ,"Retiredal",Check,,,$100.00
+35,,,,,,,
+"061521//","Rebecca Watson305 Dr. MLK Jr St South,Apt 301",Individ,al,Check,,,$100.00
+36,,,,,,,
+"061521//","Don Mastry8325 Tallahassee Dr NESt. Petersburg, FL 33702",Individ,"Attorneyal",Check,,,$100.00
+37,,,,,,,
+"061521//","Susan RolstonPO Box 76345St. Petersburg, FL 33734",Individ,"Retiredal",Check,,,$250.00
+38,,,,,,,
+"061621//","Peggy O'Shea120 Water Oak WayOldsmar, FL 34677",Individ,"Retiredal",Check,,,$100.00
+40,,,,,,,
+"061621//","George Cretekos8 Palm Terrace Unit 205Belleair, FL 33756",Individ,"Retiredal",Check,,,$50.00
+41,,,,,,,
+"061721//","Patty Smith3400 Boca Ciega DriveNorth",Individ,"Retiredal",Check,,,$50.00
+42,,,,,,,
+"061721//","Leigh Davis4536 4th Ave SouthSt. Petersburg, FL 33711",Individ,"FoundationDirectoral",Check,,,$100.00
+43,,,,,,,
+"061721//","Mirela Setkic4200 25th Ave NSt. Petersburg, FL 33713",Individ,"SmallBusinessOawl ner",Check,,,$100.00
+44,,,,,,,
+"061821//","Eric Schlecht3131 31st Street NorthSt. Petersburg, FL 33713",Individ,"Handymanal",Check,,,$25.00
+45,,,,,,,
+"061821//","Sandra Diamond1325 Snell Isle Blvd  NESt. Petersburg, FL 33704",Individ,"Attorneyal",Check,,,$250.00
+46,,,,,,,

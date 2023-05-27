@@ -1,0 +1,115 @@
+"(5)Date","(7)Full Name(Last, Suffix, First, Middle)Street Address &City, State, Zip Code","(8)ContributorTypeOccupation","(9)ContributionType","(10)In-kindDescription","(11)Amendment","(12)Amount",
+"(6)SequenceNumber",,,,,,,
+"060121//","ALEGRE, LLC15 3rd St NSt Petersburg, FL 33701",Busine,"RESTAURANT &LsOUNGE",Check,,,"$1,000.00"
+1,,,,,,,
+"060121//","Michael Fox1304 21st Ave NSt Petersburg, FL 33704",Individ,"VP SALESBUSDaEl VELOP",Check,,,$500.00
+2,,,,,,,
+"060121//","HOOKED INC273 Central AveSt Petersburg, FL 33701",Busine,"BUSINESS&FINANCECsO",Check,,,"$1,000.00"
+3,,,,,,,
+"060121//","JOEY LOWERY4010 Bayshore Blvd NESt Petersburg, FL 33703",Individ,"SALEDIGITALMaEl DIA",Check,,,"$1,000.00"
+4,,,,,,,
+"060121//","JOEY LOWERY4010 Bayshore Blvd NESt Petersburg, FL 33703",Individ,"SALEDIGITALMaEl DIA",Refund,,,"($1,000.00)"
+5,,,,,,,
+"060121//","JACK TIERNEY1490 Delgany St Apt 531Denver, CO 80202",Individ,"MGR.STUDENTEaDl UCAT",Check,,,$25.00
+6,,,,,,,
+"060221//","Kelly Gilbert1819 Nevada Ave NESt Petersburg, FL 33703",Individ,"REALESTATEal",Check,,,$500.00
+7,,,,,,,
+"060221//","Christopher Greenidge2800 1st St N Apt 8St Petersburg, FL 33704",Individ,al,Check,,,$30.00
+8,,,,,,,
+"060221//","ALEXANDRA HARRIS1934 30th Ave NSt Petersburg, FL 33713",Individ,"SOFTWARE/TECHSaAl LES",Check,,,"$1,000.00"
+9,,,,,,,
+"060221//","JIM HOLTON00 1st Ave. North  Suite501",Individ,"LAWYERal",Check,,,"$1,000.00"
+10,,,,,,,
+"060221//","DOUGLAS SMITH164 16th Ave NeSt Petersburg, FL 33704",Individ,"DIRECTBUSISaTl RATGY",Check,,,$250.00
+11,,,,,,,
+"060421//","Kirsten Meadows1701 Central Ave Unit231",Individ,"STYLISTal",Check,,,$100.00
+12,,,,,,,
+"060421//","Brent Sembler7741 Hunter Ln NPinellas Park, FL 33782",Individ,"REALESTATEal",Check,,,"$1,000.00"
+13,,,,,,,
+"060721//","LINWOOD GILBERT1904 Arrowhead Dr NESt Petersburg, FL 33703",Individ,"REALESTATEBaRl OKER",Check,,,$500.00
+14,,,,,,,
+"060721//","Shannon Moore119 5th Ave NSt Petersburg, FL 33701",Individ,"SMBUSINESSCaOl NSULT",Check,,,"$1,000.00"
+15,,,,,,,
+"060721//","Kevin Rickel717 36th Ave NSt Petersburg, FL 33704",Individ,"ITNETWORKAaDl MIN",InKind,"COMPUTERSOFTWARE",,$23.88
+16,,,,,,,
+"060921//","Kevin Rickel717 36th Ave NSt Petersburg, FL 33704",Individ,"ITNETWORKAaDl MIN",InKind,"CAMPAIGNSHIRTS",,$738.30
+17,,,,,,,
+"061121//","MARK ALLBRITTEN728 Coutry Club RdNorth",Individ,"SALESMOTIVEATETaEl CH",Check,,,$50.00
+18,,,,,,,
+"061121//","George Bernardich150 21st Ave SSt Petersburg, FL 33705",Individ,"EXECBUSINESSMaAl NAGE",Check,,,$50.00
+19,,,,,,,
+"061121//","ANTHONY CATES11340 Misty Moss DrWimauma, FL 33598",Individ,"MGMT BUSDEVELOPMEaNl T",Check,,,$25.00
+20,,,,,,,
+"061121//","Parth Desai1841 Brightwaters BlvdNE",Individ,"MGRHEALTHCARaEl",Refund,,,($500.00)
+21,,,,,,,
+"061121//","Parth Desai1841 Brightwaters BlvdNE",Individ,"MGRHEALTHCARaEl",Check,,,"$1,000.00"
+22,,,,,,,
+"061121//","Parth Desai1841 Brightwaters BlvdNE",Individ,"MGRHEALTHCARaEl",Check,,,$500.00
+23,,,,,,,
+"061121//","Colleen Gilbert4595 Chancellor St NEApt 103",Individ,"FIANCEADVISORal",Check,,,$500.00
+24,,,,,,,
+"061121//","Veronica Hickey222 8th Ave N LowrSt Petersburg, FL 33701",Individ,"ATTORNEYal",Check,,,$100.00
+25,,,,,,,
+"061121//","JUSTIN HOMBURGPO Box 17500Clearwater, FL 33762",Individ,"ATTORNEYal",Check,,,$25.00
+26,,,,,,,
+"061121//","Audrey Jackson13414 Lakeview OaksLn",Individ,"DIR GOV.AFFAIRSal",Check,,,$50.00
+27,,,,,,,
+"061121//","Scott McGinnis4646 Dover St NESt Petersburg, FL 33703",Individ,"RETIREDal",Check,,,$500.00
+28,,,,,,,
+"061121//","BREE MCKINNIE221 NW Monroe Cir NSt Petersburg, FL 33702",Individ,"HEALTHCAREal",Check,,,$50.00
+29,,,,,,,
+"061121//","WASIM NABULSI240 Beach Dr NeSt Petersburg, FL 33701",Individ,"OWNERRESTAURANaTl",Check,,,"$1,000.00"
+30,,,,,,,
+"061121//","DORA O'RORKE100 79th St SSt Petersburg, FL 33707",Individ,"RECRUITER STAFFCaOl .",Check,,,$250.00
+31,,,,,,,
+"061121//","Anita Proctor9757 53rd Ave NSt Petersburg, FL 33708",Individ,"RETIREDal",Check,,,$50.00
+32,,,,,,,
+"061121//","Savan Shah3507 S Macdill Ave Unit6",Individ,"PHYSICAINal",Check,,,$500.00
+33,,,,,,,
+"061321//","Bradley Demint248 55th Ave NESt Petersburg, FL 33703",Individ,"EXEC. TILECOal",Check,,,$25.00
+34,,,,,,,
+"061321//","Kimberly Earle5580 Kiwanis Pl NESt Petersburg, FL 33703",Individ,"TEACHERal",Check,,,$100.00
+35,,,,,,,
+"061321//","ALEXANDRAFEINBERG400 Beach Dr Ne Unit301",Individ,"CPAal",Check,,,$500.00
+36,,,,,,,
+"061421//","COMPASSDEVELOPMENTGROUP, LLC2152 14th Cir NSt Petersburg, FL 33713",Busine,"DEVELOPMENTDsELIVERY",Check,,,"$1,000.00"
+37,,,,,,,
+"061421//","COMPASS USA, LTD2152 14th Cir NSt Petersburg, FL 33713",Busine,"FOODSERVICEs",Check,,,"$1,000.00"
+38,,,,,,,
+"061421//","FLORIDA COALITIONFOR SFECOMMUNITIES2055 NW DiamondCreek Way",Politic,"PAClCommittee",Check,,,"$1,000.00"
+39,,,,,,,
+"061421//","Shawn Foster5957 Riviera LnNew Port Richey, FL",Individ,"GOVERNMENTRaEl LATIONS",Check,,,"$1,000.00"
+40,,,,,,,
+"061421//","SCHERERCONSTRUCTION2152 14th Cir NSt Petersburg, FL 33713",Busine,"CONSTRUCTIONs",Check,,,"$1,000.00"
+41,,,,,,,
+"061421//","SUNRISECONSULTING GROUP5957 Riviera LnNew Port Richey, FL",Busine,"GOVERNMENTRsELATIONS",Check,,,"$1,000.00"
+42,,,,,,,
+"061521//","BLUE SKYCOMMUNITIES LLC5300 W Cypress St Ste200",Busine,"REALESTATEDsEVELOP",Check,,,"$1,000.00"
+43,,,,,,,
+"061521//","BUILDING ASTRONGER FLORIDA9783 52nd Ave NSt Petersburg, FL 33708",Politic,"PAClCommittee",Check,,,$250.00
+44,,,,,,,
+"061521//","Charles Cagnon201 4th St S Unit 500St Petersburg, FL 33701",Individ,"RETIREDal",Check,,,$200.00
+45,,,,,,,
+"061521//","Edwin CarlsonPO Box 47476St Petersburg, FL 33743",Individ,"RETIREDal",Check,,,"$1,000.00"
+46,,,,,,,
+"061521//","Jeffrey Craft840 23rd Ave NSt Petersburg, FL 33704",Individ,"REALESTATEDaEl VELOP",Check,,,$250.00
+47,,,,,,,
+"061521//","Roger Dow1520 N Shore Dr NESt Petersburg, FL 33704",Individ,"RETIREDal",Check,,,"$1,000.00"
+48,,,,,,,
+"061521//","LEE KAMPSEN17101 Downs DrOdessa, FL 33556",Individ,"LANDDEVELOPMEaNl T",Check,,,$100.00
+49,,,,,,,
+"061521//","Christopher Morecroft200 4th Ave S Unit 125St Petersburg, FL 33701",Individ,"MGR GOV'TCONSULTal",Check,,,$500.00
+50,,,,,,,
+"061521//","NORTH SUNRISEMOTEL II LLC175 Us Alt 19 SouthPalm Harbor, FL 34683",Busine,"REALESTATEs",Check,,,"$1,000.00"
+51,,,,,,,
+"061521//","Michael Perry5245 17th St NSt Petersburg, FL 33714",Individ,"CIVILENGINEERal",Check,,,$100.00
+52,,,,,,,
+"061521//","Russell Savela3954 14th Ln NESt Petersburg, FL 33703",Individ,"MARKETINGCaOl NSULT",Check,,,"$1,000.00"
+53,,,,,,,
+"061521//","Linnea Sennott107 Fareham Pl NSt Petersburg, FL 33701",Individ,"RETIREDal",Check,,,$250.00
+54,,,,,,,
+"061721//","Phillip Herlein219 13th Ave NSt Petersburg, FL 33701",Individ,"REALESTATEal",Check,,,$100.00
+55,,,,,,,
+"061821//","Elizabeth Brumer-Smith5612 17th Ave NSt Petersburg, FL 33710",Individ,"INVESTER/WRITER/EaDl UC",Check,,,$50.00
+56,,,,,,,
+"061821//"

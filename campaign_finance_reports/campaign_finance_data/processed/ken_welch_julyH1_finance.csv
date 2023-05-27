@@ -1,0 +1,63 @@
+Date,Amount,Payment Type,First,Last,Address,City,State,Zipcode,Occupation
+07/05/21,$100.00,Check,Cynthia,Martin,PO Box 531572,St. Petersburg,FL,33747,
+07/13/21,$250.00,Check,Jonathan,Ginsberg,4681 1st NE #211,St. Petersburg,FL,33703,Public Affairs
+07/13/21,$100.00,Check,Herb,Snitzer,4619 Alcazar Way S,St. Petersburg,FL,33713,Retired
+07/15/21,$100.00,Check,Patrick,Rodgers,90 Irving Ave,Providence,RI,02906,Retired
+07/15/21,$50.00,Check,William,Horn,217 13th Ave NE,St. Petersburg,FL,33701,Retired
+07/15/21,$250.00,Check,Betty,Smith,2342 4th Ave N,St. Petersburg,FL,33713,Retired
+07/15/21,$100.00,Check,Janelle,Pod,1215 9th Ave N,St. Petersburg,FL,33705,Owner/ Operator
+07/16/21,$500.00,Check,David,Prather,400 Ocean Trail Way,,,704,Attorney
+07/16/21,$100.00,Check,Livia,Zien,220 24th Ave N,St. Petersburg,FL,33704,
+07/16/21,"$1,000.00",Check,Robert,Jeffrey,2302 1st Avenue North,St. Petersburg,FL,33713,Real Estate
+07/16/21,$100.00,Check,Teresa,Sullivan,2411 Sunrise Dr SE,St. Petersburg,FL,33705,Retired
+07/16/21,$250.00,Check,Thomas,Dunn,7963 Garden Drive North,St. Petersburg,FL,33710,Retired
+07/16/21,$50.00,Check,Steven,Bloom,5762 1st Ave N,St. Petersburg,FL,33710,Dentist
+07/15/21,$250.00,Check,Howard,Johnston,348 11th Avenue North,St. Petersburg,FL,33701,Professor
+07/15/21,$100.00,Check,Clayton,Sizemore,4310 Dr Martin Luther,King Jr St North,,,Retired
+07/15/21,$250.00,Check,Martha,Sotolongo,601 11th Ave North East,St. Petersburg,FL,33701,Not Employed
+07/15/21,$30.00,Check,Karen,Berman,185 26th Avenue North,St. Petersburg,FL,33701,Retired
+07/15/21,$100.00,Check,Elizabeth,Hornbeck,3339 Boca Ciega Drive,North,,,
+07/15/21,$100.00,Check,Donna,McRae,1320 Coral Way South,St. Petersburg,FL,33705,
+07/15/21,$25.00,Check,Robin,Odell,757 34th Avenue South,St. Petersburg,FL,33705,
+07/15/21,$100.00,Check,Astrid,Ellis,175 1st Street South,St. Petersburg,FL,33701,
+07/15/21,$100.00,Check,Robert,Jones,4628 N Darmouth Ave,St. Petersburg,FL,33713,
+07/15/21,$200.00,Check,Catherine,Vogel,2127 3rd Avenue N,St. Petersburg,FL,33713,Retired
+07/15/21,$250.00,Check,Mark,Woodard,3203 Bayshore,Boulevard,,,Retired
+07/14/21,$25.00,Check,Nona,Rutter,955 38th Avenue North,St. Petersburg,FL,33704,
+07/14/21,$250.00,Check,Jon,Kieffer,12202 2nd street East,Treasure Island,FL,,Retired
+07/14/21,"$1,000.00",Check,Daniel,Kodsi,11701 Royal Palm Blvd,Coral Springs,FL,33132,Developer
+07/14/21,$250.00,Check,Martha,Sotolongo,601 11th Ave North East,St. Petersburg,FL,33701,Not Employed
+07/14/21,$100.00,Check,William,Israel,2015 Dolphin Boulevard,South,,,Retired
+07/14/21,$500.00,Check,Eunic,Ortiz,2626 11th Street N,St. Petersburg,FL,33704,Communicat ions
+07/14/21,"$1,000.00",Check,Michael,Connor,3110 Bayshore,Boulevard Northeast,,,Investments
+07/14/21,$100.00,Check,Don,Ware,2019 13th Ave S,St. Petesburg,FL,33712,Teacher
+07/14/21,$100.00,Check,Edward,Lane,11836 130th Avenue,North,,,Educator
+07/14/21,$50.00,Check,Mary,Repper,28366 Peterson Camp,Road,,,Consultant
+07/14/21,$100.00,Check,Harry,Harvey,943 26th Avenue South,St. Petersburg,FL,33705,Retired
+07/13/21,$750.00,Check,Kim,Neuscheler,1064 Paseo Del Rio NE,#17,,,Business Manager
+07/13/21,$100.00,Check,Darlene,Butler-Welch,6101 7th Street So,St. Peterbsurg,FL,33705,
+07/13/21,$100.00,Check,Earline,Demps-,Gilbert 5101 Aragon Way South,St. Petersburg,FL,33705,
+07/13/21,$25.00,Check,Stephanie,Cain,116 18th Avenue,Southeast,,,
+07/13/21,$250.00,Check,Robin,Warren,350 2nd St N,St. Petersburg,FL,33701,Retired
+07/13/21,$50.00,Check,Emilie,Moore,6900 20th Street South,St. Petersburg,FL,33712,Engineer
+07/12/21,$250.00,Check,Matthew,Nilles,10 W Preston St,Orlando,FL,32804,Sales
+07/12/21,$500.00,Check,William,Anderson,1617 14th St. N.,St. Petersburg,FL,33704,Real Estate
+07/12/21,$25.00,Check,Suzanne,Andrew,236 21st Avenue North,St. Petersburg,FL,33704,
+07/11/21,$100.00,Check,Susan,Park,715 North Wild Olive,Avenue,,,
+07/10/21,$250.00,Check,Terrence,Brett,425 15th Avenue,Northeast,,,Business Owner
+07/10/21,$100.00,Check,Charles,Mullaney,4715 Bay Street,Northeast,,,Retired
+07/10/21,$500.00,Check,Shannon,Moore,119 5th Avenue North,St. Petersburg,FL,33701,Consultant
+07/09/21,$50.00,Check,Gina,Rothlein,139 31st Ave N,St. Petersburg,FL,33704,Retired
+07/09/21,$250.00,Check,Theresa,Jones,P. O. Box 3986,St. Petersburg,FL,33731,Social Services Maal nager
+07/09/21,$500.00,Check,Cesar,Hernandez,400 North Tampa Street,Tampa,FL,33602,Consultant
+07/08/21,$100.00,Check,Peter,Ilchuk,111 North 12th Street,Tampa,FL,33602,Retired
+07/07/21,$100.00,Check,Donna,Siebel,5272 52nd Ave N,St. Petersburg,FL,33709,Retired
+07/07/21,$100.00,Check,Eileen,Morroni,500 Treasure Island,Causeway,,,Retired
+07/07/21,$10.00,Check,Tyler,Polston,202 Coquina Bay Dr.,St. Petersburg,FL,33705,Teacher
+07/07/21,$500.00,Check,Lenice,Emanuel,7736 Long Acre Street,Montgomery,AL,36116,Executive Director
+07/06/21,$100.00,Check,Cheryl,Long,13532 Alpine Avenue,Seminole,FL,33776,
+07/05/21,$100.00,Check,Birice,Packer,3801 39th Street South,St. Petersburg,FL,33711,
+07/05/21,$100.00,Check,Joshua,Smith,300 Beach Drive,Northeast,,,
+07/04/21,$400.00,Check,Susan,Reiter,16330 Gulf Blvd,Redington Beach,FL,,Retired
+07/03/21,$100.00,Check,Sally,Everett,325 11th Ave. NE,St. Petersburg,FL,33701,
+07/03/21,$100.00,Check,Christine,Barker,1200 N Shore Dr NE,St. Petersburg,FL,33701,

@@ -1,0 +1,46 @@
+Date,Amount,Payment Type,First,Last,Address,City,State,Zipcode,Occupation
+06/03/21,"$1,000.00",Check,Margo,Catsimatidis,817 5th Ave FL 14,New York,NY,10065,Retail
+06/03/21,$75.00,Check,Ricky,Bell,3406 East Hanna Ave,Tampa,FL,33610,
+06/10/21,$500.00,Check,Edward,Miley,1250 Monticello Blvd N,St. Petersburg,FL,33703,Dentist
+06/10/21,$250.00,Check,Lari,Johnson,200 Second Ave S Ste,,,159,Retired
+06/10/21,$500.00,Check,RL,Heinkel,650 Collany Rd Unit 402,Tierra Verde,FL,33715,Accountant
+06/10/21,$500.00,Check,John,Tomlin,180 Beach Drive NE Unit,,,1901,Real Estate
+06/10/21,$250.00,Check,Jonathan,Ginsberg,4681 1st NE #211,St Petersburg,FL,33703,Public Affairs
+06/10/21,$500.00,Check,Alexandra,Clearwater,Beach DBA Pier 60 Concessions 615 Pinellas St Unit 1,Clearwater,FL,,Retail Concessions s
+06/14/21,$250.00,Check,Kevin,Schwartz,451 27th Ave N St,Petersburg,FL,,Property Managemen tal
+06/01/21,$30.00,Check,Maude,McDonald,2181 55th Avenue South,,,1505,Retired
+06/01/21,$250.00,Check,Bob,Gualtieri,165 Annwood Road,Palm Harbor,FL,34685,Sheriff
+06/01/21,$100.00,Check,Elithia,Stanfield,3769 105th Ave N,Clearwater,FL,33762,Retired
+06/02/21,$100.00,Check,Bob,Stewart,4834 Windmill Palm,Terrace NE,,,Reitred
+06/03/21,$50.00,Check,Brett,Gerdes,6753 35th Ave N,St Petersburg,FL,33710,Paralegal
+06/03/21,$250.00,Check,Scott,Bitterli,3625 Dartmouth Avenue,North,,,Managing Director
+06/04/21,"$1,000.00",Check,Lucas,Fleming,2701 Fifth Avenue North,St Petersburg,FL,33713,Attorney
+06/04/21,$250.00,Check,Joe,Moye,715 GLENAIRY DRIVE,NE,,,CEO
+06/05/21,$100.00,Check,Karen,Lieberman,253 Sunlit Cove Dr NE,St Petersburg,FL,33702,Retired
+06/06/21,$100.00,Check,Brian,Hartley,PO Box 76015,St. Petersburg,FL,33703,Construction
+06/07/21,"$1,000.00",Check,LSN,LLC,801 Arthur Godfrey,Road,Suite,401,Consulting s
+06/07/21,"$1,000.00",Check,Llorente,P.A.,801 Arthur Godfrey,Road,Suite,401,Law Firm s
+06/07/21,$100.00,Check,Norman,Bungard,5400 Park Street North,PH #7,,,Retired
+06/07/21,$100.00,Check,Gleen,Jones,1910 Lakeland Hills,Blvd.,,,CEO
+06/08/21,$50.00,Check,Thomas,Hallock,125 19 Ave. South,St. Petersburg,FL,33705,Teacher
+06/09/21,$50.00,Check,Gerry,Mckenzie,522 Elm Avenue,Upper Darby,PA,19082,Retired
+06/09/21,$250.00,Check,James,Freeman,127 Wildwood Lane SE,St. Petersburg,FL,33705,Attorney
+06/10/21,$500.00,Check,Michael,Bice,327 Rafael Boulevard,Northeast,,,Retired
+06/10/21,$500.00,Check,Michael,Bice,327 Rafael Boulevard,Northeast,,,Retired
+06/10/21,$100.00,Check,Bill,Bucolo,2223 Coit Road,Clearwater,FL,33764,Retired
+06/10/21,$500.00,Check,Basha,Jr,2225 Corinne Court,South A,,,Retired
+06/11/21,$300.00,Check,Julie,Kessel,851 35th Avenue North,St. Petersburg,FL,33704,Physician
+06/13/21,"$1,000.00",Check,John,Draheim,224 Windward Island,Clearwater,FL,33767,Retired
+06/13/21,$50.00,Check,Yolanda,Brown,1931 Cordova Rd,Fort Lauderdale,FL,,Consultant
+06/10/21,$50.00,Check,Michael,Morroni,10770 US HWY 19 N,,,702,Customer Service
+06/14/21,$100.00,Check,Greer,Rose,4657 21st Avenue South,St. Petersburg,FL,33711,Retired
+06/15/21,$100.00,Check,Rebecca,Watson,"305 Dr. MLK Jr St South,",Apt 301,,,
+06/15/21,$100.00,Check,Don,Mastry,8325 Tallahassee Dr NE,St. Petersburg,FL,33702,Attorney
+06/15/21,$250.00,Check,Susan,Rolston,PO Box 76345,St. Petersburg,FL,33734,Retired
+06/16/21,$100.00,Check,Peggy,O'Shea,120 Water Oak Way,Oldsmar,FL,34677,Retired
+06/16/21,$50.00,Check,George,Cretekos,8 Palm Terrace Unit 205,Belleair,FL,33756,Retired
+06/17/21,$50.00,Check,Patty,Smith,3400 Boca Ciega Drive,North,,,Retired
+06/17/21,$100.00,Check,Leigh,Davis,4536 4th Ave South,St. Petersburg,FL,33711,Foundation Director
+06/17/21,$100.00,Check,Mirela,Setkic,4200 25th Ave N,St. Petersburg,FL,33713,Small Business Oawl ner
+06/18/21,$25.00,Check,Eric,Schlecht,3131 31st Street North,St. Petersburg,FL,33713,Handyman
+06/18/21,$250.00,Check,Sandra,Diamond,1325 Snell Isle Blvd  NE,St. Petersburg,FL,33704,Attorney

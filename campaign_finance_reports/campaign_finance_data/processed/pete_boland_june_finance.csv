@@ -1,0 +1,85 @@
+Date,Amount,Payment Type,First,Last,Address,City,State,Zipcode,Occupation
+06/04/21,$250.00,Check,W.G.,Poor,111 2nd Ave NE ste,,,1600.0,Accountant
+06/05/21,$100.00,Check,Kristina,Beckert,1243 29th St N,Saint Petersburg,FL,,Salon Manager
+06/05/21,$200.00,Check,Codie,Sengaroun,1243 29th St N,Saint Petersburg,FL,,Sales
+06/05/21,$100.00,Check,Kristin,Turner,944 27th ST. N,St. Petersburg,FL,33713.0,Marketing Manager
+06/05/21,$500.00,Check,Andy,Dolan,8201 37th Ave N,St. Petersburg,FL,33710.0,Business Owner
+06/06/21,$250.00,Check,Abel,Carrasco,150 2nd Ave N,St. Petersburg,FL,33701.0,Photographe r
+06/07/21,$500.00,Check,Will,Erickson,758 1/2 32nd Ave N,St. Petersburg,FL,33704.0,Musician
+06/07/21,$100.00,Check,Shayne,Mann,522 Lewis Blvd SE,St. Petersburg,FL,33705.0,Crew Mate
+06/08/21,"$1,000.00",Check,Matthew,Garnett,2145 Northeast 164th,Street,,,Attorney
+06/08/21,$250.00,Check,Tobin,Roebeck,413 45th Ave NE 33704,St. Petersburg,FL,33703.0,Insurance Broker
+06/08/21,"$1,000.00",Check,Matthew,Moyer,201 4th St. S,St. Petersburg,FL,33701.0,Chef
+06/08/21,$20.00,Check,Chris,Francisco,8685 Molokai CT,Tampa,FL,33614.0,Musician
+06/08/21,$20.00,Check,Tyler,Choiniere,5021 15th Ave N,St. Petersburg,FL,33710.0,Software Engineer
+06/08/21,$20.00,Check,Harry,Chippas,180 59th Ave NE,St. Petersburg,FL,33703.0,Sales Manager
+06/09/21,$500.00,Check,Don,Zurbrick,655 41st Ave NE,St. Petersburg,FL,33703.0,Business Owner
+06/09/21,$100.00,Check,Tan,Telap,1616 28th Ave N,St. Petersburg,FL,33713.0,Engineer
+06/09/21,"$1,000.00",Check,Juan,Murillo,132 42nd Ave NE132,42nd Ave NE,,,Business Owner
+06/10/21,$100.00,Check,Scott,Olson,5185 67th Way N,St. Petersburg,FL,33709.0,Business Owner
+06/10/21,$150.00,Check,Jack,Jackson,1428 E Braemere Rd,Boise,ID,83702.0,Broker
+06/11/21,"$1,000.00",Check,Jessica,Caraballo,4670 Chancellor St NE,St. Petersburg,FL,33703.0,Nurse Practitioner
+06/11/21,$500.00,Check,Samuel,Martin,1 beach drive SE suite,,,41.0,Business Owner
+06/12/21,$100.00,Check,Jason,Leone,2740 Unami Circle,Harleysville,FL,19438.0,Sales Executive
+06/14/21,"$1,000.00",Check,Michael,Kellem,"548 Central Ave, St",Petersburg,FL33701,,Bar Owner
+06/14/21,$500.00,Check,Hunter,Herring,1426 Tyne Blvd,Nashville,FL,37215.0,Software Engineer
+06/14/21,$100.00,Check,Grant,Bond,4775 Baywood point,drive south,,,Sales Executive
+06/16/21,$100.00,Check,Don,McClean,248 39th Ave NE,St. Petersburg,FL,33703.0,Sales Executive
+06/16/21,$100.00,Check,Cody,DeWitt,645 29th Ave N,St. Petersburg,FL,33704.0,Sales Executive
+06/16/21,"$1,000.00",Check,Donald,Salama,175 1st street south,St. Petersburg,FL,33701.0,Advisor
+06/17/21,$200.00,Check,Bob,Kane,1480 40th Ave NE,St. Petersburg,FL,33703.0,Mortgage Broker
+06/17/21,$200.00,Check,Jaimie,Kane,1480 40th Ave NE,St. Petersburg,FL,33703.0,Sales Associate
+06/18/21,$75.00,Check,Edwin,Morris,1615 14th St N,St. Petersburg,FL,33704.0,Sales Associate
+06/18/21,$250.00,Check,Dustin,Burke,811 39th Ave NE,St. Petersburg,FL,33703.0,Mortgage Professional - aCl EO
+06/18/21,$500.00,Check,Mike,Jimpie,9298 sun isle dr Ne,St. Petersburg,FL,33702.0,Landscaping
+06/18/21,$20.00,Check,Joey,Corrado,101 43rd Ave NE,St. Petersburg,FL,33703.0,Sales Associate
+06/18/21,$100.00,Check,Dan,Izzo,1862 Winchester rd n,St. Petersburg,FL,33710.0,Owner Izzo Electric
+06/18/21,$20.00,Check,Jerell,Puyot,7511 Burlington Ave N,St. Petersburg,FL,33710.0,Sales Associate
+06/04/21,"$4,000.00",Loan,Peter,Boland,4670 Chancellor St NE,Saint Petersburg,FL,,Restaurateur ateToSelf
+06/10/21,"$1,000.00",Check,Cheri,Hill,9474 Bottle Lane,Cambridge,OH,43725.0,Mom
+06/14/21,$500.00,Check,Michael,Rideout,0475 Gandy Blvd N,#3115,,,Business Owner
+06/14/21,"$1,000.00",Check,Abbot,Enterprises,1783 Massachusetts Ave,NE,,,Business s
+06/15/21,"$1,000.00",Check,Roger,Zeghibe,343 Commercial St PH,,,312.0,Business Owner
+06/15/21,$500.00,Check,TD,Ltd.,P.O. Box 247,Byesville,FL,43723.0,Business s
+06/16/21,"$1,000.00",Check,John,Burkett,1733 Tanglewood Dr NE,Saint Petersburg,FL,,Retired
+06/16/21,"$1,000.00",Check,JRG,Engineering,175 1st St S #1505,Saint Petersburg,FL,,Business s
+06/03/21,"$1,000.00",InKind,Scatter,Brother,Productions 433 Central Ave 4th,Floor,,,Business s
+06/03/21,"$1,000.00",InKind,Evolve,Co.,"475 Central Ave, M7 Saint Petersburg, FL",,,33701.0,Business s
+06/19/21,$100.00,Check,Patrick,Clark,869 Timber Pond Dr,Brandon,FL,33510.0,Restaurant Manager
+06/19/21,"$1,000.00",Check,Barry,O'Connor,9740 16th St N,St. Petersburg,FL,33716.0,Business Owner
+06/19/21,"$1,000.00",Check,Marcus,Winters,9740 16th St N,St Petersburg,FL,33716.0,Business Owner
+06/19/21,$500.00,Check,Andrew,Durliat,1117 19th Ave N,St. Petersburg,FL,33704.0,Business Owner
+06/19/21,"$1,000.00",Check,Steve,Rubin,405 Central Ave,St Petersburg,FL,33701.0,Retired
+06/21/21,$250.00,Check,Abel,Carrasco,"150 2nd Ave N, STE 730",St Petersburg,FL,33701.0,Mortgage Professional
+06/23/21,"$1,000.00",Check,Ira,Bell,505 Church St.,Nashville,TN,37219.0,Business Owner
+06/23/21,$200.00,Check,Bryce,Gonzalez,5600 16th Ave N,St. Petersburg,FL,33710.0,Salesperson
+06/23/21,$50.00,Check,Joe,Grossman,442 34th Ave N,St. Petersburg,FL,33704.0,
+06/23/21,"$1,000.00",Check,Chad,McDonald,4815 Fifth St S,St Petersburg,FL,33705.0,Musician
+06/24/21,$100.00,Check,Aimee,Rock,2935 12th Ave N,St. Petersburg,FL,33713.0,Realtor
+06/24/21,$50.00,Check,Kristin,Turner,3248 57th St N,St. Petersburg,FL,33710.0,
+06/24/21,$250.00,Check,Melanie,Rattanachane,2821 12th Ave N,St. Petersburg,FL,33713.0,Business Owner
+06/28/21,"$1,000.00",Check,Maria,ferrer,6219 Palma Del Mar,Blvd S,Unit,102.0,Bookkeeper
+06/24/21,$100.00,Check,Ace,Branham,3145 17th St N,St. Petersburg,FL,33713.0,
+06/24/21,$50.00,Check,Conrad,Margarita,Cook 104 13th Ave N,St. Petersburg,FL,33701.0,
+06/25/21,$100.00,Check,Ed,Pearson,790 Birdsong Ln,Sarasota,FL,34252.0,
+06/25/21,$500.00,Check,Jessica,Smith,2525 S Shore Dr SE,St. Petersburg,FL,33705.0,Teacher
+06/29/21,$15.00,Check,Craig,Marolf,"441 33RD ST N, Apt",,,1107.0,
+06/25/21,$100.00,Check,Liam,Hawkins,826 21st Ave N,St. Petersburg,FL,33704.0,
+06/25/21,$20.00,Check,Tiffani,Botts,10200 Gandy Blvd N,St. Petersburg,FL,33702.0,
+06/30/21,$100.00,Check,Patrick,Clark,869 Timber Pond Dr,Brandon,FL,33510.0,Restaurant Manager
+06/28/21,$100.00,Check,Vincent,Corona,1100 25th St N,St. Petersburg,FL,33713.0,
+06/28/21,$250.00,Check,Dan,Soronen,5026 5th Avenue South,St. Petersburg,FL,33707.0,Consultant
+06/28/21,$500.00,Check,Robert,Bosser,5663 farmhouse drive,Frederick,MD,21703.0,Salesperson
+06/28/21,$25.00,Check,Jacqueline,Brown,3836 42nd Ave S,St. Petersburg,FL,33711.0,
+06/30/21,$100.00,Check,Stephen,Mock,433 41 st Ave NE,St. Petersburg,FL,33703.0,
+07/02/21,$100.00,Check,Lisa,Roman,PO Box 15601,St. Petersburg,FL,33733.0,
+07/01/21,$500.00,Check,Jerry,Carreno,PO Box 2222,St. Petersburg,FL,33731.0,Retired
+06/22/21,"$1,000.00",Check,St.,Aviation,Services 107 8th Ave SE,St. Petersburg,FL,33701.0,Aviation Services s
+06/22/21,"$1,000.00",Check,Dylan,Jaeck,4344 4th Ave N,St. Petersburg,FL,33713.0,Realtor
+06/25/21,$500.00,Check,Magic,LLC,1017 Bay Harbour Pl,Tampa,FL,33602.0,Entertainme nt Services s
+06/25/21,$50.00,Check,Benjamin,Friedman,2572 18th Ave N,St. Petersburg,FL,33713.0,
+06/25/21,$500.00,Check,Jerome,Lavely,2157 Bayou Grande Blvd,NE,,,Retired
+06/25/21,$400.00,Check,Vice,Hospitality,Group LLC 3045 Dr MLK Jr St N,St. Petersburg,FL,33704.0,Cafe s
+06/25/21,"$1,000.00",Check,Wagzone,Inc,2300 Central Ave,St. Petersburg,FL,33712.0,Hospitality Industry s
+06/25/21,"$1,000.00",Check,Brian,Adams,6008 Lee Street NE,St. Petersburg,FL,33703.0,Mortgage Broker
+06/23/21,"$1,000.00",InKind,Courigans,Pub,1 Beach Dr SE #41,St. Petersburg,FL,33701.0,Hopitality s
